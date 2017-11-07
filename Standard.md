@@ -10,8 +10,13 @@ Ihr Vorteil://
 
 #### Verschlüsselter Datenaustausch.
 
-Der Datenaustausch mit dem CONTUR-Server geschieht ausschließlich verschlüsselt und über eine mit einem Zertifikat abgesicherte Verbindung.
+Der Datenaustausch mit dem CONTUR-Server geschieht grundsätzlich verschlüsselt und über eine mit einem Zertifikat abgesicherte Verbindung.
 
 #### CONTUR fügt sich nahtlos in Ihre IT-Umgebung ein.
 
-CONTUR passt 
+Sie entscheiden, wo Sie den CONTUR-Server befindet: In Ihrer Einrichtung, bei Ihrem IT-Dienstleister oder in einem Rechenzentrum (optional mit ISO 210000). 
+
+#### Backup
+
+- CONTUR sichert Daten und Dokumente intern und auf Wunsch extern (täglich und zehn Tage zurück).
+- Die virtuelle Maschine des CONTUR-Servers, kann mit Standard-Backupsystemen gesichert werden.
