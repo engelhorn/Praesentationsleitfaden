@@ -3,6 +3,7 @@
 #### CONTUR ist webbasiert.
 
 Das heißt: Alles was Sie brauchen ist ein Webbrowser (Internet Explorer, Chrome, Firefox, Safari), eine Netzwerkverbindung und den CONTUR Server.
+
 Ihr Vorteil:
 - Alle Informationen und Eingabemöglichkeiten stehen auf PC, Tablet oder Smartphone zur Verfügung.
 - Keine Installation auf PC, Tablet oder Smartphone erforderlich - ein aktueller Webbrowser genügt.
